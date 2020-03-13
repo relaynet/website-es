@@ -1,0 +1,15 @@
+title: "Relaynet"
+description: "La red más resistente y moderna"
+author: "Relaycorp, Inc."
+
+twitter_username: RedRelaynet
+facebook_username: relaynet
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
